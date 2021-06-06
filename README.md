@@ -7,4 +7,4 @@ b)	Please refer to **"Project_Report_Audio_Classification_Using_NN_Sahil_Chitnis
 
 For any queries / feedback / constructive criticism / collaborations on this or any other of my projects you are most welcome to drop me an email : ssc9983@nyu.edu
 
-**NOTE** : Feel free to use this code for your development but before doing so please go through the License above.
+**NOTE** : Feel free to use this code for your development but before doing so please go through the **License** above.
